@@ -1,0 +1,29 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#form-upload {
+  display: inline-grid;
+  background: #ccc;
+  max-width: 350px;
+  padding: 50px 30px;
+  border-radius: 20px;
+}
+
+button {
+  margin-top: 20px;
+}
