@@ -41,6 +41,6 @@ Luego tienes que abrir una **terminal** dentro de las carpetas `express-server` 
 - `npm start`: para iniciar el servidor en modo de producción.
 - `npm run dev`: para iniciar el servidor en modo de desarrollo.
 
-## Licensia:
+## Licencia:
 
 [Copyright (c) 2022 Yasu Yumiko - MIT License](https://github.com/Yumiko0828/express-app-with-cdn/blob/main/LICENSE)
